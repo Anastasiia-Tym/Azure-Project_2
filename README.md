@@ -7,5 +7,3 @@ Building a virtual machine on Azure
 
 ## Process of developing Availability Zones against Disaster Recovery
 
-*
-**
